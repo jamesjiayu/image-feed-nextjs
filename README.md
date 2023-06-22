@@ -1,6 +1,6 @@
 Image Feed
 This project is a simple image feed that displays the names and images of characters from the Rick and Morty API.
-
+Node version: 18.16.0
 Navigate to the project directory: cd xxx
 Install the dependencies: npm install
 
